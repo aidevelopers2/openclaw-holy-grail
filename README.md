@@ -240,6 +240,7 @@ These are free, ready-to-use skills you can download and plug into any OpenClaw 
 | **Mission Control Dashboard** | AI agent orchestration — manage agents, assign tasks. | [Mission Control](https://github.com/abhi1693/openclaw-mission-control) |
 | **Nova YouTube Agent** | YouTube growth agent — competitor scanning, script writing. | [Nova](https://github.com/sharbelxyz/nova-youtube-agent) |
 | **OpenClaw YouTube Skill** | Skill for YouTube transcript retrieval and summarization. | [YouTube Skill](https://github.com/happynocode/openclaw-skill-youtube) |
+| **GetYouTubeTranscript Skill** | ClawHub skill for YouTube transcripts in any caption language, YouTube search, and channel and playlist data (API key, 100 free credits). | [ClawHub](https://clawhub.ai/tubeagentkit/youtube-transcript) |
 | **Reddit Read-Only Skill** | Browse and read Reddit without API keys. | [Reddit Skill](https://github.com/ajitesh-kuppa-sivakumar/reddit-openclaw) |
 | **OpenClaw Master Skills (560+)** | 560+ curated skills, weekly updated by MyClaw.ai. | [Master Skills](https://github.com/LeoYeAI/openclaw-master-skills) |
 | **OpenClaw Workspace (Hermes)** | Native web workspace — chat, terminal, memory, skills, inspector. | [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) |
